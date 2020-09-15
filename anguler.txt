@@ -1,0 +1,1 @@
+{ng g c user }this are create a new module in this file.. 
